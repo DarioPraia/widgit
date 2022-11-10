@@ -2,3 +2,4 @@ some configurations that were cheked
 need pull to local repository
 Pull Done
 need push to remote repository
+Added aditional information
